@@ -1,10 +1,10 @@
 # Movie-app
 # Android Project 3 - Movie App
-Submitted by: Wooradi Rishab Dev
+Submitted by: Rohith Goud Mallarapu
 
 Movie App* is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: 11 hours spent in total
+Time spent: 12 hours spent in total
 
 ## Required Features
 
